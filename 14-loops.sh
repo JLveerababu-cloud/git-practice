@@ -3,11 +3,9 @@
 
 for i in 1 2 3 4 5 6 7 8 9 10
 do
-  echo $id
+  echo $i
+done 
 
-  done 
-
-  
 # echo "1"
 # echo "2"
 # echo "3"
