@@ -36,7 +36,7 @@ USAGE(){
 
 }
 
-echo "script started executing at: $date"
+echo "script started executing at: $(date)"
 
 CHECK_ROOT
 
